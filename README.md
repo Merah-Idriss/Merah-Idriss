@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Merah-Idriss
 - 👀 I’m interested in signal processing and machine learning
-- 🌱 I’m currently learning electronics at the National Polytechnical school
+- 🌱 I’m currently a Master 2 student at Sorbonne University and an
+- I am also an electronics engineer from Ecole Nationale Polytechnique d'Alger.
 -
 
 <!---
